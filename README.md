@@ -94,11 +94,11 @@
 
 ## Guideline to contribute
 
-> Simply put the name of the **game** in the list.
-> Link to its **homepage** or a **guide** on how to install it.
-> Also write a **short description** for the game + add **icon**.
-> If the game doesn't fit in any **existing topic**, make a **new one** for it.
-> Ensure everything is **alphabetically sorted**.
+- Simply put the name of the **game** in the list.
+- Link to its **homepage** or a **guide** on how to install it.
+- Also write a **short description** for the game + add **icon**.
+- If the game doesn't fit in any **existing topic**, make a **new one** for it.
+- Ensure everything is **alphabetically sorted**.
 
 *Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Freeware][Freeware Icon] are free (as in free beer).*
 
@@ -119,6 +119,5 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 > [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5ZG5Z47L2ZGYC)
 > A beer in your country can buy a meal in mine.
 
-[chitchat]: https://github.com/stonesam92/ChitChat
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
 [Freeware Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg
