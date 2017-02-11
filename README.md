@@ -10,7 +10,8 @@
 🐧 Feel free to **contribute** / **star** / **fork** / **pull request** . Any **recommendations** and **suggestions** are welcomed.
 
 #### Forked from [Awesome Linux Software](https://github.com/VoLuong/Awesome-Linux-Software) which lists more than just games (CN of original [here](https://github.com/alim0x/Awesome-Linux-Software-zh_CN) and [here](https://github.com/ChrisLeeGit/awesome-linux-software-cn).)
-***********
+
+
 ## Table of Contents
 
 - [Games](#games)
@@ -45,7 +46,7 @@
 
 [**List of contributors**](https://github.com/VoLuong/Awesome-Ubuntu-Linux/graphs/contributors) :
 
- 1. __Me__ [(LuongVo)](https://github.com/VoLuong)
+ 1. __Original author__ [(LuongVo)](https://github.com/VoLuong)
  2. [anewuser](https://github.com/anewuser)
  3. [nathanmusoke](https://github.com/nathanmusoke)
  4. [bpearson](https://github.com/bpearson)
@@ -115,8 +116,8 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## Author of original [Awesome Linux Software](https://github.com/VoLuong/Awesome-Linux-Software)
 <div id='donation'/>
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5ZG5Z47L2ZGYC)
-A beer in your country can buy a meal in mine.
+> [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5ZG5Z47L2ZGYC)
+> A beer in your country can buy a meal in mine.
 
 [chitchat]: https://github.com/stonesam92/ChitChat
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
