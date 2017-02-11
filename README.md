@@ -103,9 +103,7 @@
 *Items marked with ![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with ![Freeware][Freeware Icon] are free (as in free beer).*
 
 <br>
-
-*Author's note: Recently, I received feedbacks from you about the quality of some applications on this list. I myself tested them out a lot (not all of them, though). If you have any problems with the apps, please: -> head to the dev page (if available) -> make an issue for the dev there -> make an issue here so that I can consider whether I should get the app out of the list. Remember : Everything has its own quality, so there will never be anything like "best app" or "selective list" here, thank you.*
-
+>*Author's note: Recently, I received feedbacks from you about the quality of some applications on this list. I myself tested them out a lot (not all of them, though). If you have any problems with the apps, please: -> head to the dev page (if available) -> make an issue for the dev there -> make an issue here so that I can consider whether I should get the app out of the list. Remember : Everything has its own quality, so there will never be anything like "best app" or "selective list" here, thank you.*
 <br>
 
 ## License
